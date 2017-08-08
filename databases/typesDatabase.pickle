@@ -1,0 +1,58 @@
+(lp1
+VProtein
+p2
+aVmicroRNA
+p3
+aVmiRNA
+p4
+aVRNA
+p5
+aVDNA
+p6
+aVmRNA
+p7
+aVrRNA
+p8
+aVtRNA
+p9
+aVGene
+p10
+aVGlycoprotein
+p11
+aVPseudogene
+p12
+aVPoint mutation
+p13
+aVFrameshift Mutation
+p14
+aVAmino Acid
+p15
+aVBase
+p16
+aVNitrogenous base
+p17
+aVChromosome
+p18
+aVTranslocation
+p19
+aVEnzyme
+p20
+aVGene family
+p21
+aVLocus
+p22
+aVMutation
+p23
+aVRibonucleic acid
+p24
+aVDeoxyribonucleic acid
+p25
+aVRibosomal RNA
+p26
+aVMessenger RNA
+p27
+aVTransfer RNA
+p28
+aVVirus
+p29
+a.
