@@ -86,7 +86,7 @@ def getBiomarkerMatcher():
         markerDatabase = pickle.load(f)
     marker_dm = DictionaryMatch(d=markerDatabase, ignore_case=False)
     marker_regex = RegexMatchEach(
-        rgx=r'(^|(?<=\s))[A-Za-z][A-Z1-9-]{2,}', ignore_case=False, attrib='words')
+        rgx=r'(^|(?<=\s))[A-Za-z][A-Za-z1-9-]{2,}', ignore_case=False, attrib='words')
     matcher = Union(marker_regex, marker_dm)
     return matcher
 
